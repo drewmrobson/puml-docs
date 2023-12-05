@@ -3,9 +3,9 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Getting started with **puml.dev**
 
 ## Getting Started
 
